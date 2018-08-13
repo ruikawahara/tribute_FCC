@@ -6,4 +6,4 @@ This website is a tribute to internet. It is strictly based off of **sample webs
 
 For purpose of earning certificate, I may post the exact same content over CodePen.
 
-For current status, you may visit https://ruikawahara.github.io/tribute_FCC.github.io/.
+For current status, you may visit https://ruikawahara.github.io/tribute_FCC/.
