@@ -1,0 +1,12 @@
+/* Global */
+
+#main {
+  padding: 30px;
+  margin: auto;
+  outline: 40px
+}
+
+/* Title */
+#title, #subtitle{
+  text-align: center;
+}
