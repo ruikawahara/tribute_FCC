@@ -66,3 +66,9 @@ li{
 #quote p{
   margin-top: -20px;
 }
+
+
+/* size adjustment */
+@@media query {
+
+}
