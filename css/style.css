@@ -1,6 +1,7 @@
 /* Global */
 
 #main {
+  /* position: relative; */
   padding: 30px;
   margin: auto;
   outline: 40px
@@ -18,6 +19,35 @@
 
 #image{
     position: relative;
-    
+
     bottom: 15px;
+}
+
+
+
+/* tribute info */
+#tribute-info{
+  margin: 0 35%;
+}
+
+#tribute-info h3, #tribute-info h6{
+  text-align: center;
+}
+
+#tribute-info h6{
+  margin-top: -10px;
+}
+
+#tribute-info ul{
+  line-height: 1.5;
+}
+
+
+/* quote */
+#quote{
+  text-align: center;
+}
+
+#quote p{
+  margin-top: -20px;
 }
