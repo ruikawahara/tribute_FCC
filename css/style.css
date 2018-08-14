@@ -14,12 +14,16 @@
 
 /* image and caption */
 #img-div{
-position: relative;
-margin: 0 25px;
-padding: 0 0;
-background-color: #ffffff;
+  height: auto;
+  width: auto;
+  position: relative;
+  margin: auto;
+  padding: 0 0;
+  background-color: #ffffff;
 }
 
 #image{
-    position: relative;
+  position: relative;
+  max-width: 70%;
+  max-height: 70%;
 }
