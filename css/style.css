@@ -14,9 +14,6 @@
 
 /* image and caption */
 #img-div{
-  height: auto;
-  width: auto;
-  position: relative;
   margin: auto;
   padding: 0 0;
   background-color: #ffffff;
@@ -26,4 +23,9 @@
   position: relative;
   max-width: 70%;
   max-height: 70%;
+}
+
+/* description */
+#tribute-info ul li{
+  line-height: 2.0;
 }
