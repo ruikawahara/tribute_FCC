@@ -4,9 +4,20 @@
   padding: 30px;
   margin: auto;
   outline: 40px
+  width: 768px;
 }
 
 /* Title */
 #title, #subtitle{
   text-align: center;
+}
+
+#img-div{
+  margin: auto;
+}
+
+#image{
+    position: relative;
+    
+    bottom: 15px;
 }
