@@ -1,9 +1,11 @@
 /* Global */
 
 #main {
-  padding: 0px;
-  margin: 0;
-  outline: 0px;
+  /* position: relative; */
+  padding: 30px;
+  margin: auto;
+  outline: 40px
+  width: 768px;
 }
 
 /* Title */
@@ -26,6 +28,33 @@
 }
 
 /* description */
-#tribute-info ul li{
+/* #tribute-info ul li{
   line-height: 2.0;
+} */
+
+/* tribute info */
+#tribute-info{
+  margin: 0 35%;
+}
+
+#tribute-info h3, #tribute-info h6{
+  text-align: center;
+}
+
+#tribute-info h6{
+  margin-top: -10px;
+}
+
+#tribute-info ul{
+  line-height: 1.5;
+}
+
+
+/* quote */
+#quote{
+  text-align: center;
+}
+
+#quote p{
+  margin-top: -20px;
 }
