@@ -1,10 +1,9 @@
 /* Global */
 
 #main {
-  padding: 30px;
-  margin: auto;
-  outline: 40px
-  width: 768px;
+  padding: 0px;
+  margin: 0;
+  outline: 0px;
 }
 
 /* Title */
@@ -12,12 +11,15 @@
   text-align: center;
 }
 
+
+/* image and caption */
 #img-div{
-  margin: auto;
+position: relative;
+margin: 0 25px;
+padding: 0 0;
+background-color: #ffffff;
 }
 
 #image{
     position: relative;
-    
-    bottom: 15px;
 }
